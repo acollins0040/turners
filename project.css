@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+	</head>
+	<body>
+		<p>
+			{background-color:#f4f4f4; font-family:arial, helvetica, sans-serif; font-size:16px; font-weight:100;} Welcome to the library webpage for Viper Elementary. We are so excited to have you visit our schools page and see what we have to offer! 📖 Some of the things you can find on our website are:
+			
+            
+        }
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 25%; 
+            text-align: center;
+            padding: 14px 0; /* Adjust padding to make clickable area larger */
+        }
+        nav a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: #111;
+        }
+	</body>
+</html>
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+<nav>
+    <table>
+        <tr>
+            <td><a href="file:///Users/aliciaturner/Desktop/LIB841PersonalProject/index.html">Getting to Know Me</a></td>
+            <td><a href="file:///Users/aliciaturner/Desktop/LIB841PersonalProject/announcements.html">Announcements</a></td>
+            <td><a href="file:///Users/aliciaturner/Desktop/LIB841PersonalProject/book%20of%20the%20week.html">Book of the Week</a></td>
+            <td><a href="file:///Users/aliciaturner/Desktop/LIB841PersonalProject/bert%20the%20bearded%20dragon.html">Bert the Bearded Dragon</a></td>
+        </tr>
+    </table>
+</nav>
+<style>
+p {background-image: url(file:///Users/aliciaturner/Desktop/LIB841PersonalProject/pastel%20background.png 
+');
+}
+</style>
+nav {
+    background-color: #333;
+}
+nav table {
+    width: 100%;
+    border-collapse: collapse;
+}
+nav td {
+    width: 25%; /* Ensure each cell takes an equal share of the table width */
+    text-align: center;
+    padding: 14px 0; /* Adjust padding to make clickable area larger */
+}
+nav a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+nav a:hover {
+    background-color: #111;
+}
+
+font-size: 30px;
+border: 4px solid black;
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="file:///Users/aliciaturner/Downloads/hatchet.webp"  style="width:auto;">
+</picture>
+
+</body>
+</html>
+
+<A HREF = "file:///Users/aliciaturner/Desktop/LIB841PersonalProject/Bert%20the%20Bearded%20Dragon.html>"Bert the Beardie</A>
